@@ -15,3 +15,4 @@ Working on a something not yet completed.. completed!
 Editing the file for remote conflict demo.
 Team member edited the file remotely.
 Adding a line for pull with rebase demo remotely.
+NEw line added locally for git rebase demo.
