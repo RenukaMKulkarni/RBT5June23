@@ -1,11 +1,11 @@
-Welcome to the GIT Session!
-Session Details -
-Day 1 - 5th June 10:30 AM - 1:30 PM
-Day 2 - 6th June 10:30 AM - 1:30 PM
-Day 3 - 7th June 10:30 AM - 1:30 PM
-Today is Day2 6th June 2023. Today is Tuesday.
-Demo of revert line1.
-Function to fix Bug123 (){
+Welcome - to the GIT Session!
+Session - Details -
+Day - 1 - 5th June 10:30 AM - 1:30 PM
+Day - 2 - 6th June 10:30 AM - 1:30 PM
+Day - 3 - 7th June 10:30 AM - 1:30 PM
+Today - is Day2 6th June 2023. Today is Tuesday.
+Demo - of revert line1.
+Function - to fix Bug123 (){
 	//Do something...
 	//Team member added 1 line 
 	//Added a line to fix bug456
