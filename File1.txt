@@ -8,4 +8,5 @@ Demo of revert line1.
 Function to fix Bug123 (){
 	//Do something...
 	//Team member added 1 line 
+	//Added a line to fix bug456
 }
